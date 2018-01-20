@@ -30,7 +30,6 @@
   autocrlf = input
   editor = subl -w
   whitespace = -trailing-space
-  excludesfile = /Users/xxxxx/.gitignore
 [diff]
   mnemonicPrefix = true
 [format]
@@ -46,8 +45,5 @@
   follwTags = true
 [tag]
   sort = version:refname
-[user]
-  name = xxxxx
-  email = xxxxx@xxxxx
 [status]
 showUntrackedFiles = all
